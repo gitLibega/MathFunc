@@ -6,4 +6,3 @@ E:\metodichki\Тестирование ПО\MathFunc\bin\Debug\netcoreapp3.1\Mat
 E:\metodichki\Тестирование ПО\MathFunc\bin\Debug\netcoreapp3.1\MathFunc.pdb
 E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.dll
 E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.pdb
-E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.csproj.CoreCompileInputs.cache

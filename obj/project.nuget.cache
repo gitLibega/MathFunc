@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "klSMy4ElDPDyNInRYypUJ8iYezsf1U8oxpx2hAFduNjwFmi++rbehGlZVCyJlfjvP3YOt4pnYAOgIV8w3dFhWg==",
+  "dgSpecHash": "9QEBRkCCnebT74IptJM557ejQYlB3x5bkdMNyaTLadcJzFGzHOShHipBaghtxvvVrPM2XtkZU1eDoyQVUFla2Q==",
   "success": true,
   "projectFilePath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\MathFunc.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }

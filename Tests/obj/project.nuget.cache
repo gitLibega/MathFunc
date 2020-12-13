@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "03c8MUj9/F35dnVH0Uk0Udro1cXnFl0ga6DwLR5OTt+gQcj/8ro0DZxBg9Za7ZToGplNjfeVfJXhiHSCdr31NQ==",
+  "dgSpecHash": "HdpekGsy3vKdA/w7wuardKhnrw/QLlnCK6z75Q7M8VAgUC2N8u4wjiUSH5ckW+s/RkcB1baohnFeo6Hct9xXWg==",
   "success": true,
   "projectFilePath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ilya\\.nuget\\packages\\csvhelper\\18.0.0\\csvhelper.18.0.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
-    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
+    "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.dotnet.internalabstractions\\1.0.0\\microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.net.test.sdk\\16.4.0\\microsoft.net.test.sdk.16.4.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
