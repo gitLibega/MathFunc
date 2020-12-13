@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj": {}
+    "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj": {}
   },
   "projects": {
     "E:\\metodichki\\Тестирование ПО\\MathFunc\\MathFunc.csproj": {
@@ -56,14 +56,14 @@
         }
       }
     },
-    "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj": {
+    "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj",
+        "projectUniqueName": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
         "projectName": "Tests",
-        "projectPath": "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj",
+        "projectPath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
         "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
-        "outputPath": "E:\\metodichki\\Тестирование ПО\\Tests\\obj\\",
+        "outputPath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",
