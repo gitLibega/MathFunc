@@ -6,4 +6,4 @@ install:
   - dotnet restore
 script:
   - dotnet build
-  - dotnet test ./MathFunc/Tests -c Debug -f netcoreapp3.1
+  - dotnet test ./Tests/Tests -c Debug -f netcoreapp3.1
