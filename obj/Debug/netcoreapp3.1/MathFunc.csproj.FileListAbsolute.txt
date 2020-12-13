@@ -1,0 +1,9 @@
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.csprojAssemblyReference.cache
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.AssemblyInfoInputs.cache
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.AssemblyInfo.cs
+E:\metodichki\Тестирование ПО\MathFunc\bin\Debug\netcoreapp3.1\MathFunc.deps.json
+E:\metodichki\Тестирование ПО\MathFunc\bin\Debug\netcoreapp3.1\MathFunc.dll
+E:\metodichki\Тестирование ПО\MathFunc\bin\Debug\netcoreapp3.1\MathFunc.pdb
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.dll
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.pdb
+E:\metodichki\Тестирование ПО\MathFunc\obj\Debug\netcoreapp3.1\MathFunc.csproj.CoreCompileInputs.cache
