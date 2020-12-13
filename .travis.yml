@@ -6,4 +6,4 @@ install:
   - dotnet restore
 script:
   - dotnet build
-  - dotnet test ./TestingLb2 -c Debug -f netcoreapp3.1
+  - dotnet test ./Tests -c Debug -f netcoreapp3.1
