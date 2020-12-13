@@ -4628,8 +4628,8 @@
     },
     "MathFunc/1.0.0": {
       "type": "project",
-      "path": "../MathFunc.csproj",
-      "msbuildProject": "../MathFunc.csproj"
+      "path": "../MathFunc/MathFunc.csproj",
+      "msbuildProject": "../MathFunc/MathFunc.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4646,11 +4646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
+      "projectUniqueName": "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
+      "projectPath": "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\Ilya\\.nuget\\packages\\",
-      "outputPath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\obj\\",
+      "outputPath": "E:\\metodichki\\Тестирование ПО\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ilya\\AppData\\Roaming\\NuGet\\NuGet.Config",

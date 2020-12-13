@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03c8MUj9/F35dnVH0Uk0Udro1cXnFl0ga6DwLR5OTt+gQcj/8ro0DZxBg9Za7ZToGplNjfeVfJXhiHSCdr31NQ==",
+  "dgSpecHash": "K2h+mHbeLEa0lUcC3VKNww+JaeuhjbAy9WW0O7XINAAFi5tDYInZLOhbia63FD4bCOmfzjirtoHCeMP/zvY+GQ==",
   "success": true,
-  "projectFilePath": "E:\\metodichki\\Тестирование ПО\\MathFunc\\Tests\\Tests.csproj",
+  "projectFilePath": "E:\\metodichki\\Тестирование ПО\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.codecoverage\\16.4.0\\microsoft.codecoverage.16.4.0.nupkg.sha512",
     "C:\\Users\\Ilya\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
