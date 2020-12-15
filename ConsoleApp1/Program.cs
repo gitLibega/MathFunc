@@ -10,7 +10,8 @@ namespace ConsoleApp1
 	class Program
 	{
 		static void Main(string[] args)
-		{if (!File.Exists("File.csv"))
+		{
+			if (!File.Exists("File.csv"))
 			{
 				File.Create("File.csv");
 			}
@@ -18,18 +19,11 @@ namespace ConsoleApp1
 			Console.Write("Нужная функция(sin,cos,log,ln,sqrt,expression:");
 			string func = Console.ReadLine();
 			Console.WriteLine("Введите стартовое значение");
-
 			double start = Convert.ToDouble(Console.ReadLine());
-
 			Console.WriteLine("Введите шаг функции");
-
 			double step = Convert.ToDouble(Console.ReadLine());
-
 			Console.WriteLine("Введите конечное значение");
-
 			double end = Convert.ToDouble(Console.ReadLine());
-
-			
 			using var csv = new CsvWriter(sw, new CsvConfiguration(CultureInfo.InvariantCulture) { Delimiter = ";" });
 			for (double i = start; i < end; i += step)
 			{
@@ -41,18 +35,15 @@ namespace ConsoleApp1
 				if (func == "ln")
 				{ result = new MathC().Ln(i); }
 				if (func == "sqrt")
-				{ result = MathC.Sqrt(i); }					
+				{ result = MathC.Sqrt(i); }
 				if (func == "expression")
 				{ result = new Expression().Calc(i); }
-				csv.WriteRecord(new { X = func+$"({i})", Result = result });
+				csv.WriteRecord(new { X = func + $"({i})", Result = result });
 
 				csv.NextRecord();
 			}
 			Console.WriteLine($"Результаты вычисления функции {func} сохранены в File.csv");
 		}
-
-
-
-		}
 	}
+}
 

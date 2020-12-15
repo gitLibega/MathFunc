@@ -4,7 +4,7 @@ namespace MathFunc
 {
 	public class MathC
 	{
-		public  double Sin(double x, int nTerms = 30)
+		public double Sin(double x, int nTerms = 30)
 
 		{
 
@@ -46,7 +46,7 @@ namespace MathFunc
 
 		}
 
-		public  double Cos(double x, int nTerms = 30)
+		public double Cos(double x, int nTerms = 30)
 
 		{
 
@@ -88,7 +88,7 @@ namespace MathFunc
 
 		}
 
-		public  double Ln(double power)
+		public double Ln(double power)
 
 		{
 
@@ -142,7 +142,7 @@ namespace MathFunc
 
 		}
 
-		public  double Exp(double n)
+		public double Exp(double n)
 
 		{
 
@@ -173,51 +173,44 @@ namespace MathFunc
 			return p;
 
 		}
-
-		public  double tan(double x)
+		public double tan(double x)
 
 		{
 
 			return Sin(x) / Cos(x);
 
 		}
-
-		public  double cotan(double x)
+		public double cotan(double x)
 
 		{
 
 			return Cos(x) / Sin(x);
 
 		}
-
-		public  double Cos2(double x)
+		public double Cos2(double x)
 
 		{
 
 			return 1 - Sin(x) * Sin(x);
 
 		}
-
-		public  double Sec(double x)
+		public double Sec(double x)
 
 		{
 
 			return 1 / Cos(x);
 
 		}
-
-		public  double Csc(double x)
+		public double Csc(double x)
 
 		{
 
 			return 1 / Sin(x);
 
 		}
-
 		public double Pow(double x, int radix)
 
 		{
-
 			if (radix == 0) return 1;
 
 			var res = x;
@@ -227,15 +220,10 @@ namespace MathFunc
 			for (int i = 1; i < absRadix; i++)
 
 			{
-
 				res *= x;
-
 			}
-
 			return radix > 0 ? res : 1 / res;
-
 		}
-
 		public static double Abs(double x)
 
 		{
@@ -243,7 +231,6 @@ namespace MathFunc
 			return x >= 0 ? x : -x;
 
 		}
-
 		public static double Sqrt(double x)
 
 		{
